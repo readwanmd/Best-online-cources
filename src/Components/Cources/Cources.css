@@ -1,0 +1,16 @@
+.Cources-area{
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 25px;
+    border-bottom: 1px solid darkgray;
+}
+
+.Cources-area img{
+    width: 480px;
+    height: 280px;
+    margin-right: 20px;
+}
+
+.Cources-area button{
+    margin-right: 20px;
+}
